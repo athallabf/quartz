@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "NGOPS",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -38,7 +38,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#111318",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
